@@ -13,3 +13,4 @@
 
 ## Todo
  * everything
+ * 2.2
